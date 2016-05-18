@@ -67,7 +67,7 @@ To verify functionality of the worker node client, you will need to submit a tes
 1.  Submit a job that executes the `env` command (e.g. Run [condor\_ce\_trace](TroubleshootingHTCondorCE#condor_ce_trace) with the `-d` flag from your HTCondor CE)
 2.  Verify that the value of `OSG_GRID` is set to `/etc/osg/wn-client`
 
-How to get Help?
+How Do I Get Help?
 ----------------
 
 To get assistance please use this [Help Procedure](HelpProcedure).
